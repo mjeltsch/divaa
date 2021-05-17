@@ -13,8 +13,11 @@
 # the chance of 1/20 to be found at this position) and 0.05 being a
 # completely conserved site (chance of 1 to be found at this position).
 
-from Bio import AlignIO
 import sys, os
+from Bio import AlignIO
+import matplotlib.pyplot as plt
+import seaborn as sns
+import pandas as pd
 
 def run(msa_file):
 
@@ -68,6 +71,20 @@ def run(msa_file):
     # Print the result
     for i, item in enumerate(diversity_list):
         print(f"{i}: {item}")
+    
+    #
+    #plt.plot(diversity_list, color = 'red', linewidth=1, linestyle='dashed')
+    #plt.xlabel("amino acid position")
+    #plt.ylabel("diversity")
+    #plt.savefig(msa_file+".svg")
+
+    df = pd.DataFrame(diversity_list).rolling(20, center = True, min_periods = 1).mean()
+    sns_plot = sns.lineplot(data = df, palette = "tab10", linewidth = 1)
+    sns_plot.set(xlabel = 'aa position', ylabel = 'amino acid diversity')
+    #sns_plot.savefig('figure.png', transparet = True)
+    sns_plot.figure.savefig('figure.pdf', dpi = 300)
+    #sns_plot.savefig('figure.eps', orientation = 'landscape', dpi = 300)
+    sns_plot.figure.savefig('figure.svg')
 
 if __name__ == '__main__':
     msa_file = sys.argv[1]
