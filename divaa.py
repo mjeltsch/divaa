@@ -21,6 +21,7 @@ import pandas as pd
 
 def run(msa_file):
 
+    svg_outfile = 'divaa_results/' + msa_file.split('/')[-1]+'.svg'
     alignment = AlignIO.read(open(msa_file), 'fasta')
     sequence_length = alignment.get_alignment_length()
 
@@ -79,14 +80,27 @@ def run(msa_file):
     #plt.savefig(msa_file+".svg")
 
     df = pd.DataFrame(diversity_list).rolling(20, center = True, min_periods = 1).mean()
+    plt.clf()
     sns_plot = sns.lineplot(data = df, palette = "tab10", linewidth = 1)
     sns_plot.set(xlabel = 'aa position', ylabel = 'amino acid diversity')
     #sns_plot.savefig('figure.png', transparet = True)
-    sns_plot.figure.savefig('figure.pdf', dpi = 300)
+    #sns_plot.figure.savefig('figure.pdf', dpi = 300)
     #sns_plot.savefig('figure.eps', orientation = 'landscape', dpi = 300)
-    sns_plot.figure.savefig('figure.svg')
+
+    #ax = sns.boxplot(x="day", y="total_bill", data=tips)
+    plt.ylim(0.04, 0.15)
+    plt.xlim(0, 408)
+    plt.xticks(range(0, 408, 10), rotation = 90)
+
+    cm_width = 29.7
+    cm_height = 21.0
+    sns_plot.figure.set_size_inches(cm_width/2.54, cm_height/2.54)
+    sns_plot.figure.savefig(svg_outfile)
 
 if __name__ == '__main__':
-    msa_file = sys.argv[1]
-    if len(sys.argv) == 2 and os.path.isfile(msa_file):
+    #msa_file = sys.argv[1]
+    #if len(sys.argv) == 2 and os.path.isfile(msa_file):
+    #    run(msa_file)
+    sys.argv.pop(0)
+    for msa_file in sys.argv:
         run(msa_file)
