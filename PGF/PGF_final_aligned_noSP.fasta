@@ -1,0 +1,480 @@
+>tr|X1WBL7|X1WBL7_DANRE  Placental growth factor b OS=Danio rerio OX=7955 GN=pgfb PE=3 SV=1
+LSLLP-GQ-----------------------------------SSSLVNV
+NSTDKVMLFQEVWGKSFCRTIEKLVEVVQEYPGEVEHIFSPACVPLVRCA
+GCCGDENLECHPTLTSNTTMQLLKIKPAEQGQEYVEMTFVEHKACECR--
+--------------------------------------------------
+-------------------------LRKPTTKQDRWKPR--NRGRK---R
+------------KEKQKAKDCDRC--------------------------
+-------------------------------------QPPR
+>tr|A0A673CD24|A0A673CD24_9TELE  PDGF_2 domain-containing protein OS=Sphaeramia orbicularis OX=375764 GN=pgf PE=3 SV=1
+LLLSP-AQ-----------------------------------CLPLSSI
+NNTTQVLMFQEVWGRSFCRTIEKLVEVVQEYPTEVEHIYSPSCVPLVRCS
+GCCGDENLECHPTQTTNVTMQLLKIRPSEPGQEYVEMTFVEHQTCECR--
+--------------------------------------------------
+-------------------------IRKPVVKVERKRQR--GRGRK---R
+------------KEKQKLKECDRC--------------------------
+-------------------------------------QIPR
+>tr|A0A6P8VQQ6|A0A6P8VQQ6_GYMAC  placenta growth factor OS=Gymnodraco acuticeps OX=8218 GN=pgfb PE=3 SV=1
+LLLSP-AQ-----------------------------------SLPQPVI
+HNTTEVLMFQEVWGRSFCRTIEKLVEVVQEYPTEVEHIYSPACVPLVRCA
+GCCGDENLECHATLTTNVTMQLLKIRPSEPGQEYVEMTFVEHQTCECR--
+--------------------------------------------------
+-------------------------VKKRIVKVERKRQR--GRGRK---R
+------------KEKQKPKECDSC--------------------------
+-------------------------------------QNPR
+>sp|Q63434|PLGF_RAT  Placenta growth factor OS=Rattus norvegicus OX=10116 GN=Pgf PE=1 SV=1
+VHS--------------------------------------QGALSAGNN
+STEMEVVPFNEVWGRSYCRPMEKLVYIADEHPNEVSHIFSPSCVLLSRCS
+GCCGDEGLHCVALKTANITMQILKIPPNRDPHSYVEMTFSQDVLCECR--
+--------------------------------------------------
+-------------------------PILETTKAERRKTK----GKR----
+------------KQSKTP--------------------------------
+-----------------------------------QTEEPH
+>tr|A0A6P5QZM3|A0A6P5QZM3_MUSCR  placenta growth factor OS=Mus caroli OX=10089 GN=Pgf PE=3 SV=1
+VHS--------------------------------------QGALSAGNN
+STEVEVVPFNEVWGRSYCRPMEKLVYILDEYPDEVSHIFSPSCVLLSRCS
+GCCGDEGLHCVPIKTANITMQILKIPPNRDPHFYVEMTFSQDVLCECR--
+--------------------------------------------------
+-------------------------PILETTKAERRKTK--GKRKR---S
+------------RNSQTEE-------------------------------
+---------------------------------------PH
+>tr|A0A1Y7VIW3|A0A1Y7VIW3_MOUSE  Placenta growth factor OS=Mus musculus OX=10090 GN=Pgf PE=1 SV=1
+VHS--------------------------------------QGALSAGNN
+STEVEVVPFNEVWGRSYCRPMEKLVYILDEYPDEVSHIFSPSCVLLSRCS
+GCCGDEGLHCVPIKTANITMQILKIPPNRDPHFYVEMTFSQDVLCECR--
+--------------------------------------------------
+-------------------------PILETTKAERRKTK--GKRKR---S
+------------RNSQT---------------------------------
+-----------------------------------EEPHP-
+>tr|A0A6J0YNH4|A0A6J0YNH4_ODOVR  placenta growth factor isoform X1 OS=Odocoileus virginianus texanus OX=9880 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSSGTI
+SSEVEVVPFQQVWKRSYCRPAERLVDIVSEYPSETEHLFSPSCVSLLRCT
+GCCSDEKMHCMPLETANITMQLMKYRALDLPF-FVEMSFSQHVSCECR--
+--------------------------------------------------
+-------------------------PRLGKTTLKRRRAK--VRGQR---K
+------------RKEQKHKDCHLC--------------------------
+-----------------------------------GDTLSR
+>tr|W5NTX3|W5NTX3_SHEEP  Placental growth factor OS=Ovis aries OX=9940 GN=PGF PE=3 SV=1
+LPAPPSPQ---------------------------------QWALSPGNI
+SFTIHVVPFEQVWSRSYCRPVERLVDIVSEYPSEVEHMFSPSCVSLMRCT
+GCCSDETMHCMPLETANVTMQLMKYHSLDQPF-FVEMSFSQHVRCECK--
+--------------------------------------------------
+-------------------------PLRGRMKPKRRRSR--VRGPR---K
+------------REEQKHKDCHLC--------------------------
+-----------------------------------GDTVSR
+>tr|A0A4W2GYE5|A0A4W2GYE5_BOBOX  PDGF_2 domain-containing protein OS=Bos indicus x Bos taurus OX=30522 GN=PGF PE=3 SV=1
+LPAVP-TT---------------------------------QWALSPGNI
+SSEVEVVPFQQVWSRSYCRPVERLVDIVSEYPSEMEHLFSPSCVSLMRCT
+GCCSDESMHCVPLETANVTMQLMKYRSLDQPF-FVEMSFSQHVRCECK--
+--------------------------------------------------
+-------------------------PLWEKMKQTRRRSR--VRGPR---K
+------------REEQKHKDCHLC--------------------------
+-----------------------------------GDTISQ
+>tr|A0A3Q1MQB6|A0A3Q1MQB6_BOVIN  Placenta growth factor OS=Bos taurus OX=9913 GN=PGF PE=3 SV=1
+LPAVP-TT---------------------------------QWALSPGNI
+SSEVEVVPFQQVWSRSYCRPVERLVDIVSEYPSEMEHLFSPSCVSLMRCT
+GCCSDESMHCVPLETANVTMQLMKYRSLDQPF-FVEMSFSQHVRCECK--
+--------------------------------------------------
+-------------------------PLWEKMKQTRRRSR--VRGPR---K
+------------REEQKHKDCHLC--------------------------
+-----------------------------------GDTISQ
+>tr|A0A6P5CH44|A0A6P5CH44_BOSIN  placenta growth factor isoform X1 OS=Bos indicus OX=9915 GN=PGF PE=3 SV=1
+LPAVP-TT---------------------------------QWALSPGNI
+SSEVEVVPFQQVWSRSYCRPVERLVDIVSEYPSEMEHLFSPSCVSLMRCT
+GCCSDESMHCVPLETANVTMQLMKYRSLDQPF-FVEMSFSQHVRCECK--
+--------------------------------------------------
+-------------------------PLWEKMKQTRRRSR--VRGPR---K
+------------REEQKHKDCHLC--------------------------
+-----------------------------------GDTISQ
+>tr|A0A286XMQ5|A0A286XMQ5_CAVPO  Placental growth factor OS=Cavia porcellus OX=10141 GN=PGF PE=3 SV=1
+LPTVP-VQ---------------------------------QWALSTGNN
+SSEVEVVPFQEVWGRSYCRTRERLVDIVTEYPSEVQYLFSPSCVSLKRCT
+GCCGDERLQCVPVETTNVTMQVLKITPGTRPS-FVQLTFSQHDLCECR--
+--------------------------------------------------
+-------------------------PLQKKTKSERRRPK--VRGKR---K
+------------RENQKPTVCHQC--------------------------
+-----------------------------------GDSVP-
+>tr|A0A6P6DCC6|A0A6P6DCC6_OCTDE  placenta growth factor isoform X1 OS=Octodon degus OX=10160 GN=Pgf PE=3 SV=1
+LPTAP-LQ---------------------------------QWALSTGNS
+SSEVEVMPFQEVWGRSYCRAREKLVDIVAEYPGEVQDLFSPSCVSLKRCT
+GCCGDERLQCMPVETSNVTLQVLKITPGPRPF-LVHMTFSQHNLCECR--
+--------------------------------------------------
+-------------------------PLQKKTKAERRRLK--VRGKR---K
+------------RENQKPTVCHQC--------------------------
+-----------------------------------GDSVP-
+>tr|A0A6J2L627|A0A6J2L627_9CHIR  placenta growth factor isoform X1 OS=Phyllostomus discolor OX=89673 GN=PGF PE=3 SV=1
+LPAVP-SQ---------------------------------QSALPARDN
+SSETEVVPFQEVWGRSYCRSMEKLVNIVSLYPNEVQYMFNPSCVALLRCT
+GCCGDESLHCVPVETANITMQILKISSKKQSS-YVEMTFSQHKRCECR--
+--------------------------------------------------
+-------------------------PVWDVIKPERRRNK--GSGKR---K
+------------KEKQRPTVCHLC--------------------------
+-----------------------------------GNTAPL
+>tr|A0A6P5K8W6|A0A6P5K8W6_PHACI  placenta growth factor OS=Phascolarctos cinereus OX=38626 GN=PGF PE=3 SV=1
+LPAAS-PQ----------------------------------RDVPPENS
+TAEIEVLPFQEVWGRSFCRSLEKLVDVSTEYPGEVEHMFSPSCVSLRRCT
+GCCGDENLHCVAVETTNVTMQLLKIKSGEQPS-YMELAFTEHVRCECR--
+--------------------------------------------------
+-------------------------PRREKMKPERRRLK--GRGKR---K
+------------REKQRPRDCHQC--------------------------
+-----------------------------------EDAVPP
+>tr|I3N8D7|I3N8D7_ICTTR  Placental growth factor OS=Ictidomys tridecemlineatus OX=43179 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QRALSAETS
+SSEVEVIPFHEVWGRSYCRALEKLVDIVTEYPSEMEYILSPSCVSLKRCT
+GCCGDEDLHCLPVETTNVTMQILKIPPEGPPS-YVELQFSQHVSCECR--
+--------------------------------------------------
+-------------------------PLREKMKPERRRLK--GRGKR---K
+------------KEKQRSTDCHQC--------------------------
+-----------------------------------SDTVPR
+>tr|A0A2I3GN30|A0A2I3GN30_NOMLE  PDGF_2 domain-containing protein OS=Nomascus leucogenys OX=61853 GN=PGF PE=3 SV=1
+EASGP-AERPLHALRAPALRAGRALRAGRALRELGSGTSSAQWALSAGNG
+SSEVEVVPFQEVWGRSYCRALERLVDVVSEYPSEVEHIFSPSCVSLLRCT
+GCCGDENLHCVPVETANVTMQLLKIRSGDPPS-YVEMTFSQHVRCECR--
+--------------------------------------------------
+-------------------------PLWEKMKPERRRPK--GRGKR---R
+------------REKQRPTDCHLC--------------------------
+-----------------------------------GDPVPR
+>tr|A0A2K5PKH5|A0A2K5PKH5_CEBIM  PDGF_2 domain-containing protein OS=Cebus imitator OX=2715852 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAGNG
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPSEVEHMFSPSCVSLLRCT
+GCCGDENLHCVPVETVNVTMQLLKISSGDRPS-YVELTFSQHVRCQCRHS
+PGRQRPEMPGDFRADAPSPPPTL-----------------WLTPRSQSTA
+LPPS---------------------LILEEIP--RMHPG--RKEEK----
+------------RTKSE---------------------------------
+-----------------------------------WQGSPG
+>tr|F7ITA3|F7ITA3_CALJA  Placental growth factor OS=Callithrix jacchus OX=9483 GN=PGF PE=3 SV=3
+LPAVP-PQ---------------------------------QWALSAGNG
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPSEVEHMFSPSCVSLLRCT
+GCCGDENLHCVPVETVNVTMQLLKISSGDRPS-YVELAFSQHVGCECRHS
+PGRQRPDMPGDFRADAPSPLRPCGSLPVLFWVGWVWGGRRCAPTGSQSIA
+LPSS---------------------LILEEIP--RMHPG--RKGEK---R
+--------KKPLREKMKPERC-----------------------------
+-----------------------------------GDAVPR
+>tr|A0A2K5EAD9|A0A2K5EAD9_AOTNA  PDGF_2 domain-containing protein OS=Aotus nancymaae OX=37293 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAGNG
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPSEVEHMFSPSCVSLLRCT
+GCCGDENLHCVPVETVNVTMQLLKIGSGDRPS-YVELAFSQHVRCECRHS
+PGRQRPDMPGDFRADAPSLPPTPCGG--------------CALTGSRSTA
+LPSS---------------------LILEEIP--RMHPG--RKGEKKSSR
+EQIETTPDLMPLREKMKPERC-----------------------------
+-----------------------------------GDAVPR
+>tr|A0A2K5J8Y4|A0A2K5J8Y4_COLAP  PDGF_2 domain-containing protein OS=Colobus angolensis palliatus OX=336983 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSTGNG
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPSEVEHMFSPSCVSLLRCT
+GCCGDENLHCVPVETVNVTMQLLKIRSGDRPS-YVELTFSQHVRCECRHS
+PGRQSPDMPGDFRTDAPSLPPTPSGG--------------CALTGNQSTA
+WPSC---------------------PVPEEIP--RMHPG--RKGKK----
+----------PLREKMKPER------------------------------
+-----------------------------------------
+>tr|A0A2K5VMQ8|A0A2K5VMQ8_MACFA  PDGF_2 domain-containing protein OS=Macaca fascicularis OX=9541 GN=PGF PE=3 SV=1
+LPAVP-PQ------------------------------------VRPGSP
+D-----LPIPEVWGRSYCRALERLVDIVSEYPSEVEHMFSPSCVSLLRCT
+GCCGDENLHCVPVETVNVTMQLLKIRSGDRPS-YVELTFSQHVRCECRHS
+PGRQSPDMPGDLRTDAPSLPPTPPGG--------------CALTGNQSTA
+RPSC---------------------PVPEEIP--RVHPG--RKGKK----
+----------PLREKMKPERC-----------------------------
+-----------------------------------GDAVPR
+>tr|A0A2I3MWB0|A0A2I3MWB0_PAPAN  PDGF_2 domain-containing protein OS=Papio anubis OX=9555 GN=PGF PE=3 SV=1
+LPAVP-PQ------------------------------------VRPGSP
+D-----LPIPEVWGRSYCRALERLVDIVSEYPSEVEHMFSPSCVSLLRCT
+GCCGDENLHCVPVETVNVTMQLLKIRSGDRPS-YVELTFSQHVRCECRHS
+PGRQSPDIGG------------------------------CALTGNQSTA
+RPSC---------------------PVPEEIP--RVHPG--RKGKK----
+----------PLREKMKPERC-----------------------------
+-----------------------------------GDAVPR
+>tr|A0A2K6F7S1|A0A2K6F7S1_PROCO  PDGF_2 domain-containing protein OS=Propithecus coquereli OX=379532 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAGNS
+SSEAEVVPFQEVWGRSYCRALERLVDIVSEYPSEVEHMFSPSCVSLLRCT
+GCCGDENLHCVPVETVNVTMQLLKIRSGDRPS-YVELTFSQHVQCECRHS
+PGRQSLDMPGDCGARAPLSSPPLPSPPCCSRMGL-----GCALTGSQSTA
+LPSF---------------------TVLEETP--RMHPGWEGSGQR---K
+----------PLREKMKPERC-----------------------------
+-----------------------------------GDAVPR
+>tr|E2QZR3|E2QZR3_CANLF  Placental growth factor OS=Canis lupus familiaris OX=9615 GN=PGF PE=3 SV=2
+LPAMP-PQ---------------------------------QLALSAGNG
+SSEVEVVPFQQVWGRSYCRALEKLVDVLSEYPDEVEHMFNPSCVSLLRCS
+GCCGDENLHCMPVETANVTMQLLMIHSTGRPS-YVELTFSQHIRCQCR--
+--------------------------------------------------
+-------------------------PPLEDMKLERRRPK--GRGKR---K
+------------REKQRPTDCHLC--------------------------
+-----------------------------------GHTVPQ
+>tr|A0A3Q7TG16|A0A3Q7TG16_VULVU  placenta growth factor isoform X1 OS=Vulpes vulpes OX=9627 GN=PGF PE=3 SV=1
+LPAMP-PQ---------------------------------QWALSAGNG
+SSEVEVVPFQQVWGRSYCRALEKLVDVLSEYPDEVEYMFNPSCVSLLRCS
+GCCGDENLHCTPVETVNVTMQLLMIHSTGRPS-YVELTFSQHIRCQCR--
+--------------------------------------------------
+-------------------------PPLEDMKLERRRPK--GRGKR---K
+------------REKQRPTDCHLC--------------------------
+-----------------------------------GHTVPQ
+>tr|A0A384CSQ2|A0A384CSQ2_URSMA  placenta growth factor isoform X1 OS=Ursus maritimus OX=29073 GN=PGF PE=3 SV=1
+LPAAP-PQ---------------------------------QSAVSAGNG
+SSEMEVVPFQEVWGRSYCRALERLVDIVAEYPSEVQHMFSPSCVSLLRCT
+GCCGXXXXXXXPRHQTLLSLKLLKIRSQDRPS-YVELTFSQHIRCECR--
+--------------------------------------------------
+-------------------------PLWEKMKPERRRPK--GRGKR---K
+------------REKQRPTDCHLC--------------------------
+-----------------------------------GHTVPR
+>tr|A0A1U7TX02|A0A1U7TX02_CARSF  placenta growth factor isoform X1 OS=Carlito syrichta OX=1868482 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWPLSAGNG
+SSEVEVVPFQEVWGRSYCRPLERLVDIVSEYPGEVEHMFSPSCVPLLRCT
+GCCGDEDLHCVPVETANVTMQVLKFRSGDRPS-YVELTFSQHVHCECR--
+--------------------------------------------------
+-------------------------PLREKMKPERRRPK--GRGKR---K
+------------REKQKPTDCHLC--------------------------
+-----------------------------------GDAVPR
+>tr|A0A6J3AMT2|A0A6J3AMT2_VICPA  placenta growth factor isoform X1 OS=Vicugna pacos OX=30538 GN=PGF PE=3 SV=1
+LPTLP-PQ---------------------------------QWALSAGNS
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPSEVEHIFSPSCVSLLRCT
+GCCGDEDLHCMPVETVNVTMQLLKIRSGDPPS-YVELTFSQHVRCECR--
+--------------------------------------------------
+-------------------------PLWGKMKPERRRPK--GRGKR---K
+------------REKQRHTDCHLGRLLPATRLKKSFHAMGLELIQVLPHE
+PVLALT-----------------------------GTSTPL
+>tr|M3YCX5|M3YCX5_MUSPF  PDGF_2 domain-containing protein OS=Mustela putorius furo OX=9669 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAGNG
+SSEVEVVPFQEVWGRSYCRALEKLVDIVSEYPSEVEYIFSPSCVSLMRCT
+GCCGDENLHCVPIETVNVTMQVLKIRAKTRPS-YVELTFSQHIRCECR--
+--------------------------------------------------
+-------------------------PLWEKMKPERRRPK--GRGKR---K
+------------REKQRPTDCHLC--------------------------
+-----------------------------------GHTVPR
+>tr|A0A3Q7Y8R3|A0A3Q7Y8R3_URSAR  placenta growth factor isoform X1 OS=Ursus arctos horribilis OX=116960 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QSALSAGNG
+SSEMEVVPFQEVWGRSYCRALERLVDIVAEYPSEVQHMFSPSCVSLLRCT
+GCCGDENLHCVPVETANVTMQLLKIRSQDRPS-YVELTFSQHIRCECR--
+--------------------------------------------------
+-------------------------PLWEKMKPERRRPK--GRGKR---K
+------------REKQRPTDCHLC--------------------------
+-----------------------------------GHTVPR
+>tr|A0A452RE91|A0A452RE91_URSAM  Placental growth factor OS=Ursus americanus OX=9643 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QSALSAGNG
+SSEMEVVPFQEVWGRSYCRALERLVDIVAEYPSEVQHMFSPSCVSLLRCT
+GCCGDENLHCVPVETANVTMQLLKIRSQDRPS-YVELTFSQHIRCECR--
+--------------------------------------------------
+-------------------------PLWEKMKPERRRPK--GRGKR---K
+------------REKQRPTDCHLC--------------------------
+-----------------------------------GHTVPR
+>tr|A0A3Q7NV16|A0A3Q7NV16_CALUR  placenta growth factor OS=Callorhinus ursinus OX=34884 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAGNG
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPGEVEHMFSPSCVSLLRCA
+GCCGDENLHCVPAETVNVTMQLLKIHSEDRPS-YVELTFSQHIRCECR--
+--------------------------------------------------
+-------------------------PLWEKMKPERRRPK--GRGKR---K
+------------REKQRPTDCHLC--------------------------
+-----------------------------------GHTVPR
+>tr|A0A6J2B611|A0A6J2B611_ZALCA  placenta growth factor isoform X1 OS=Zalophus californianus OX=9704 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAGNG
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPGEVEHMFSPSCVSLLRCA
+GCCGDENLHCVPAETVNVTMQLLKIHSEDRPS-YVELTFSQHIRCECR--
+--------------------------------------------------
+-------------------------PLWEKMKPERRRPK--GRGKR---K
+------------REKQRPTDCHLC--------------------------
+-----------------------------------GHTVPR
+>tr|A0A2Y9G898|A0A2Y9G898_NEOSC  placenta growth factor isoform X2 OS=Neomonachus schauinslandi OX=29088 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAGNG
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPGEVEHMFSPSCVSLLRCA
+GCCGDENLHCVPAETVNVTMQLLKIHSEDRPS-YVELTFSQHIRCECR--
+--------------------------------------------------
+-------------------------PLWEKMKPERRRPK--GRGKR---K
+------------REKQRPTDCHLC--------------------------
+-----------------------------------GHTVPR
+>tr|A0A5F5PML3|A0A5F5PML3_HORSE  Placental growth factor OS=Equus caballus OX=9796 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAGNG
+SSEVEVVPFHEVWGRSYCRTLERLVDIVSEYPSEVEHMFSPSCVSLLRCT
+GCCGDENLHCAPVETVNVTMQLLKIRSGDRPS-YVELTFSQHVRCECR--
+--------------------------------------------------
+-------------------------PLREKMKPERRRPK--GRGKR---K
+------------REKQRPTDCHLC--------------------------
+-----------------------------------GDIVPR
+>tr|A0A6J3QW57|A0A6J3QW57_TURTR  placenta growth factor isoform X3 OS=Tursiops truncatus OX=9739 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAANG
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPGEVEHMFSPSCVSLLRCT
+GCCGDENLHCVPVETVNVTMQLLKIRSGDRPS-YVELTFSQHVRCECR--
+--------------------------------------------------
+-------------------------PLREKMKPERRRPK--GRGKR---K
+------------REKQRHTDCHLACLLPPTGLRKSFHAMGLGLAKSYPMS
+PTLHERRPPPHSVKIGMLGRILGAAILFPGGNQPLGGERPH
+>tr|A0A4X1TBZ8|A0A4X1TBZ8_PIG  PDGF_2 domain-containing protein OS=Sus scrofa OX=9823 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAGNS
+SSEVEVVPFQEVWGRSYCRALERLVDIVSVYPSEVEHMFSPSCVSLLRCT
+GCCGDENLHCVPVETVNVTMQLLKIRSGDRPS-YVELTFSQHVRCECR--
+--------------------------------------------------
+-------------------------PLREKMKPERRRPK--GRGKR---K
+------------REKQRHTDCHLC--------------------------
+-----------------------------------GDTVPR
+>tr|A0A341AVJ5|A0A341AVJ5_NEOAA  placenta growth factor isoform X1 OS=Neophocaena asiaeorientalis asiaeorientalis OX=1706337 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAANG
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPGEVEHMFSPSCVSLLRCT
+GCCGDENLHCVPVETVNVTMQLLKIRSGDRPS-YVELTFSQHVRCECR--
+--------------------------------------------------
+-------------------------PLREKMKPERRRPK--GRGKR---K
+------------REKQRHTDCHLC--------------------------
+-----------------------------------GDTVPR
+>tr|A0A2Y9NDR1|A0A2Y9NDR1_DELLE  placenta growth factor isoform X1 OS=Delphinapterus leucas OX=9749 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAANG
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPGEVEHMFSPSCVSLLRCT
+GCCGDENLHCVPVETVNVTMQLLKIRSGDRPS-YVELTFSQHVRCECR--
+--------------------------------------------------
+-------------------------PLREKMKPERRRPK--GRGKR---K
+------------REKQRHTDCHLC--------------------------
+-----------------------------------GDTVPR
+>tr|A0A2Y9F8V5|A0A2Y9F8V5_PHYMC  placenta growth factor isoform X1 OS=Physeter macrocephalus OX=9755 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAANG
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPSEVEHTFSPSCVSLLRCT
+GCCGDENLHCVPVETVNVTMQLLKIRSGDRPS-YVELTFSQHVRCECR--
+--------------------------------------------------
+-------------------------PLREKMKPERRRPK--GRGKR---K
+------------REKQRHTDCHLC--------------------------
+-----------------------------------GDTVPR
+>tr|A0A384AAZ4|A0A384AAZ4_BALAS  placenta growth factor isoform X1 OS=Balaenoptera acutorostrata scammoni OX=310752 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAANG
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPSEVEHMFSPSCVSLLRCT
+GCCGDENLHCVPVETVNVTMQLLKIRSGDRPS-YVELTFSQHVRCECR--
+--------------------------------------------------
+-------------------------PLREKMKPERRRPK--GRGKR---K
+------------REKQRHTDCHLC--------------------------
+-----------------------------------GDTVPR
+>tr|A0A6J3INT7|A0A6J3INT7_SAPAP  placenta growth factor isoform X1 OS=Sapajus apella OX=9515 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAGNG
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPSEVEHMFSPSCVSLLRCT
+GCCGDENLHCVPVETVNVTMQLLKISSGDRPS-YVELTFSQHVRCQCR--
+--------------------------------------------------
+-------------------------PLREKMKPERRRPK--GRGKR---R
+------------REKQRPTDCHLC--------------------------
+-----------------------------------GDAVPR
+>tr|A0A2K6KVI4|A0A2K6KVI4_RHIBE  PDGF_2 domain-containing protein OS=Rhinopithecus bieti OX=61621 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAGNG
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPSEVEHMFSPSCVSLLRCT
+GCCGDENLHCVPVETVNVTMQLLKIRSGDRPS-YVDLTFSQHVRCECR--
+--------------------------------------------------
+-------------------------PLREKMKPERRRPK--GRGKR---R
+------------REKQRPTDCHLC--------------------------
+-----------------------------------GDAVPR
+>tr|A0A2K6PW65|A0A2K6PW65_RHIRO  PDGF_2 domain-containing protein OS=Rhinopithecus roxellana OX=61622 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAGNG
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPSEVEHMFSPSCVSLLRCT
+GCCGDENLHCVPVETVNVTMQLLKIRSGDRPS-YVDLTFSQHVRCECR--
+--------------------------------------------------
+-------------------------PLREKMKPERRRPK--GRGKR---R
+------------REKQRPTDCHLC--------------------------
+-----------------------------------GDAVPR
+>tr|A0A2K5L2S8|A0A2K5L2S8_CERAT  PDGF_2 domain-containing protein OS=Cercocebus atys OX=9531 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAGNG
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPSEVEHMFSPSCVSLLRCT
+GCCGDENLHCVPVETVNVTMQLLKIRSGDRPS-YVELTFSQHVRCECR--
+--------------------------------------------------
+-------------------------PLREKMKPERRRPK--GRGKR---R
+------------REKQRPTDCHLC--------------------------
+-----------------------------------GDAVPR
+>tr|A0A2K5Y1Z1|A0A2K5Y1Z1_MANLE  PDGF_2 domain-containing protein OS=Mandrillus leucophaeus OX=9568 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAGNG
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPSEVEHMFSPSCVSLLRCT
+GCCGDENLHCVPVETVNVTMQLLKIRSGDRPS-YVELTFSQHVRCECR--
+--------------------------------------------------
+-------------------------PLREKMKPERRRPK--GRGKR---R
+------------REKQRPTDCHLC--------------------------
+-----------------------------------GDAVPR
+>tr|A0A0D9RIE5|A0A0D9RIE5_CHLSB  PDGF_2 domain-containing protein OS=Chlorocebus sabaeus OX=60711 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSTGNG
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPSEVEHMFSPSCVSLLRCT
+GCCGDENLHCVPVETVNVTMQLLKIRSGDRPS-YVELTFSQHVRCECR--
+--------------------------------------------------
+-------------------------PLREKMKPERRRPK--GRGKR---R
+------------REKQRPTDCHLC--------------------------
+-----------------------------------GDAVPR
+>tr|I2CX71|I2CX71_MACMU  Placenta growth factor isoform 1 OS=Macaca mulatta OX=9544 GN=PGF PE=2 SV=1
+LPAVP-PQ---------------------------------QWALSPGNG
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPSEVEHMFSPSCVSLLRCT
+GCCGDENLHCVPVETVNVTMQLLKIRSGDQPS-YVELTFSQHVRCECR--
+--------------------------------------------------
+-------------------------PLREKMKPERRRPK--GRGKR---R
+------------REKQRPTDCHLC--------------------------
+-----------------------------------GDAVPR
+>tr|A0A2K6BJ70|A0A2K6BJ70_MACNE  PDGF_2 domain-containing protein OS=Macaca nemestrina OX=9545 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSPGNG
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPSEVEHMFSPSCVSLLRCT
+GCCGDENLHCVPVETVNVTMQLLKIRSGDRPS-YVELTFSQHVRCECR--
+--------------------------------------------------
+-------------------------PLREKMKPERRRPK--GRGKR---R
+------------REKQRPTDCHLC--------------------------
+-----------------------------------GDAVPR
+>tr|H2RDS7|H2RDS7_PANTR  Placental growth factor OS=Pan troglodytes OX=9598 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAGNG
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPSEVEHMFSPSCVSLLRCT
+GCCGDENLHCVPVETANVTMQLLKIRSGARPS-YVELTFSQHVRCECRHS
+PGTQSPDMPGDFRADAPSFLPPRRSLPMLFRMEW-----GCALTGSQSAV
+WPSS---------------------PVPEEIP--RMHPG--RNGKKQQRK
+----------PLREKMKPERC-----------------------------
+-----------------------------------GDAVPR
+>tr|H2NLT3|H2NLT3_PONAB  Placental growth factor OS=Pongo abelii OX=9601 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAGNG
+SSEVE---------RSYCRALERLVDIVSEYPSEVEHIFSPSCVSLLRCT
+GCCGDENLHCVPVETANVTMQLLKIRSGDRPS-YVELTFSQHVRCECR--
+--------------------------------------------------
+-------------------------PLREKMKPERRRPK--GRGKR---R
+------------REKQRPTDCHLC--------------------------
+-----------------------------------GDAVPR
+>sp|P49763-4|PLGF_HUMAN  Isoform PlGF-4 of Placenta growth factor OS=Homo sapiens OX=9606 GN=PGF
+LPAVP-PQ---------------------------------QWALSAGNG
+SSEVEVVPFQEVWGRSYCRALERLVDVVSEYPSEVEHMFSPSCVSLLRCT
+GCCGDENLHCVPVETANVTMQLLKIRSGDRPS-YVELTFSQHVRCECRHS
+PGRQSPDMPGDFRADAPSFLPPRRSLPMLFRMEW-----GCALTGSQSAV
+WPSSPVPEEIPRMHPGRNGKKQQRKPLREKMKPERRRPK--GRGKR---R
+------------REKQRPTDCHLC--------------------------
+-----------------------------------GDAVPR
+>tr|A0A6P3R6T3|A0A6P3R6T3_PTEVA  placenta growth factor isoform X1 OS=Pteropus vampyrus OX=132908 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QLALSAGNS
+SSEMEVVPFQEVWGRSYCRALERLVDIVSEYPSEVEHMFSPSCVSLLRCT
+GCCGDENLHCVPAEMANVTMQLLKIRSGYRPS-YVELTFSQHVRCECR--
+--------------------------------------------------
+-------------------------PMWEKMKPERRRPK--GRGKR---K
+------------REKQRPTDCHLC--------------------------
+-----------------------------------GDTVPR
+>tr|A0A671DLX2|A0A671DLX2_RHIFE  Placental growth factor OS=Rhinolophus ferrumequinum OX=59479 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QLALSAGNS
+SSEMEVVPFQEVWGRSYCRALERLVDIVSEYPSEVEHMFSPSCVSLLRCT
+GCCGDENLHCVV--EVNVTMQLLKIRSGDRPS-YVELTFSQHVRCECR--
+--------------------------------------------------
+-------------------------PLREKMKPERRRPK--GRGKR---K
+------------REKQRPTDCHLC--------------------------
+-----------------------------------GDTVPR
+>tr|A0A6P4U7E1|A0A6P4U7E1_PANPR  placenta growth factor isoform X3 OS=Panthera pardus OX=9691 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAGNG
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPSEVQHMFSPSCISLLRCT
+GCCGDENLHCVPVETVNVTMQLLKIHSEDRPS-YVELTFSQHVRCECR--
+--------------------------------------------------
+-------------------------PLREKMKPERRRPK--GRGKR---K
+------------REKQRPRDCHLC--------------------------
+-----------------------------------GNTVPR
+>tr|A0A6I9ZPX7|A0A6I9ZPX7_ACIJB  placenta growth factor isoform X2 OS=Acinonyx jubatus OX=32536 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAGNG
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPSEVQHMFSPSCISLLRCT
+GCCGDENLHCVPVETVNVTMQLLKIHSEDRPS-YVELTFSQHVRCECR--
+--------------------------------------------------
+-------------------------PLREKMKPERRRPK--GRGKR---K
+------------REKQRPRDCHLC--------------------------
+-----------------------------------GNTVPR
+>tr|A0A667HKL1|A0A667HKL1_LYNCA  PDGF_2 domain-containing protein OS=Lynx canadensis OX=61383 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAGNG
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPSEVQHMFSPSCISLLRCT
+GCCGDENLHCVPVETVNVTMQLLKIHSEDRPS-YVELTFSQHVRCECR--
+--------------------------------------------------
+-------------------------PLREKMKPERRRPK--GRGKR---K
+------------REKQRPRDCHLC--------------------------
+-----------------------------------GNTVPR
+>tr|A0A6P6HII9|A0A6P6HII9_PUMCO  placenta growth factor isoform X1 OS=Puma concolor OX=9696 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAGNG
+SSEVEVVPFQEVWGRSYCRALERLVDIVSEYPSEVQHMFSPSCISLLRCT
+GCCGDENLHCVPVETVNVTMQLLKIHSEDRPS-YVELTFSQHVRCECR--
+--------------------------------------------------
+-------------------------PLREKMKPERRRPK--GRGKR---K
+------------REKQRPRDCHLC--------------------------
+-----------------------------------GNTVPR
+>tr|A0A673TJF9|A0A673TJF9_SURSU  Placental growth factor OS=Suricata suricatta OX=37032 GN=PGF PE=3 SV=1
+LPAVP-PQ---------------------------------QWALSAGNG
+SSEVEVVPFQEVWGRSYCRALERLVDVVTEYPGEVQHMFSPSCVSLLRCT
+GCCGDENLHCVPVETVNVTMQLLKIHSEDPPS-YVELTFSQHVRCECRNS
+QNALCEERQVQGKELNRESQQRTNSQDHRPDATR----------------
+-------------------------PLREKMKPERRRPK--GRGKR---K
+------------REKQRPRDCHLC--------------------------
+-----------------------------------SNTVPR
